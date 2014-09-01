@@ -1,0 +1,15 @@
+# Unity3D .gitignore file.
+
+# OS X only:
+.DS_Store
+*.swp
+*.Trashes
+
+# All platforms:
+CubeDemo1/Library
+CubeDemo1/Temp
+*.csproj
+*.unityproj
+*.pidb
+*.sln
+*.userprefs
